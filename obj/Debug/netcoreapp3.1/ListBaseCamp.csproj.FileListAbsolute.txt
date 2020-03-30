@@ -1,0 +1,11 @@
+C:\Code\Pro.2.8 - ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.exe
+C:\Code\Pro.2.8 - ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.deps.json
+C:\Code\Pro.2.8 - ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.runtimeconfig.json
+C:\Code\Pro.2.8 - ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.runtimeconfig.dev.json
+C:\Code\Pro.2.8 - ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.dll
+C:\Code\Pro.2.8 - ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.pdb
+C:\Code\Pro.2.8 - ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.csprojAssemblyReference.cache
+C:\Code\Pro.2.8 - ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.AssemblyInfoInputs.cache
+C:\Code\Pro.2.8 - ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.AssemblyInfo.cs
+C:\Code\Pro.2.8 - ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.dll
+C:\Code\Pro.2.8 - ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.pdb
